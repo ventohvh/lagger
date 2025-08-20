@@ -1,9 +1,9 @@
 # lagger
 clutters up RAM to pass cheat checks
 
-ru: советую запусктаь от имени администоратора
+ru: советую запускать от имени администоратора.
 
-en: I recommend running it as administrator
+en: I recommend running it as administrator.
 
 ru: сделано для прохождения проверки на читы, может быть, вы сможете придумать, где это использовать, я не знаю :)
 
